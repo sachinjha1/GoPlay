@@ -1,3 +1,5 @@
+https://github.com/golang/go/wiki#learning-more-about-go
+
 # GoPlay
 GO - Fundamentals
 
